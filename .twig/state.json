@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "updated_at": "2025-11-11T05:15:59.955164300Z",
+  "worktrees": [],
+  "branches": {},
+  "dependencies": [
+    {
+      "id": "2e62024c-9e6d-4101-9142-0ed88383616f",
+      "child": "brad-test",
+      "parent": "main",
+      "created_at": "2025-11-11T05:15:59.954705600Z"
+    }
+  ],
+  "root_branches": []
+}
